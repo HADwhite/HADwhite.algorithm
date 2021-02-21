@@ -1,2 +1,2 @@
-# HADwhite.gtihub.io
-personal blog
+# HADwhite.algorithm
+personal algorithm learning
